@@ -7,7 +7,7 @@
 
 ## Hi, I'm Farheen 👋
 
-A Data & Research Science enthusiast who builds data-heavy LLM applications and Insights. Focusing on feature engineering, agentic RAG retrieval, and inference optimization has enabled us to deliver scalable, accurate models and web applications.
+A Data & Research Science enthusiast who builds data-heavy LLM applications and Insights. Focusing on feature engineering, agentic RAG retrieval, and inference optimization.  This enabled me to deliver scalable, accurate models and web applications.
 
 ---
 
