@@ -94,6 +94,11 @@ A Data & Research Science enthusiast who builds data-heavy LLM applications and 
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 
 </a>
+<a href="https://scholar.google.com/citations?user=cpGY_HMAAAAJ&hl=en" target="_blank">
+
+  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+
+</a>
 
   </a>
   
