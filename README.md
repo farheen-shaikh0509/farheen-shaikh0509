@@ -66,20 +66,37 @@ A Data & Research Science enthusiast who builds data-heavy LLM applications and 
 
 ## 📬 Connect
 
-<p align="Center">
-  <a href="mailto:farheen.s.shaikh05@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/farheen-shaikh0509/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/FarheenSS05" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://farheen-shaikh-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
+<p align="center">
+
+  <a href="mailto:farheen.s.shaikh05@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+
+  </a>
+
+  <a href="https://www.linkedin.com/in/farheen-shaikh0509/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+  </a>
+
+  <a href="https://x.com/FarheenSS05" target="_blank">
+ <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+
+  </a>
+
+  <a href="https://farheen-shaikh-portfolio.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+
+  </a>
 
 <a href="https://leetcode.com/u/fshaikh1/" target="_blank">
 
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 
 </a>
 
- 
+  </a>
+  
 
 </p>
 
