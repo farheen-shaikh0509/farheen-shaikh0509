@@ -71,6 +71,16 @@ A Data & Research Science enthusiast who builds data-heavy LLM applications and 
   <a href="https://www.linkedin.com/in/farheen-shaikh0509/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/FarheenSS05" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://farheen-shaikh-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+
+
+<a href="https://leetcode.com/u/fshaikh1/" target="_blank">
+
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+
+</a>
+
+ 
+
 </p>
 
 ---
