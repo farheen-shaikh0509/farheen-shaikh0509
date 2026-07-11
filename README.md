@@ -1,13 +1,39 @@
 <p align="center">
     <img src="./github_profile_banner_farheen.svg" alt="banner" width="100%"/>
-
   <img src="https://komarev.com/ghpvc/?username=farheen-shaikh530&label=Profile%20views&color=blueviolet&style=flat-square"/>
- 
 </p>
 
 ## Hi, I'm Farheen 👋
 
-A Data & Research Science enthusiast who builds data-heavy LLM applications and Insights. Focusing on feature engineering, agentic RAG retrieval, and inference optimization.  This enabled me to deliver scalable, accurate models and web applications.
+A Data & Research Science enthusiast who builds data-heavy LLM applications and Insights. Focusing on feature engineering, agentic RAG retrieval, and inference optimization. This enabled me to deliver scalable, accurate models and web applications.
+
+```text
+                     .`````...`..
+                 ```':,''```````````                farheen@shaikh -----------------------------------------
+              `'''`'|*|;:'```````...`.              . Location: ...................... United States
+            .```,;*@MMMM#*|:`...........            . Role: ......... Data & Research Science | AI/ML
+           ```;#MMMMMMMMMM@#(:'..........           . Focus: .... LLM apps, agentic RAG, inference opt
+          .``(MMMMMMMMMMMMM@@%(,.........           . Research: . feature engg, retrieval, data pipelines
+         ...:MMMMMMMMMMMMMM@@#%(,.........
+         `..(MMMMMMMMMMMMM@#####*,........          . Languages.Programming: .. Python, SQL, Java, Bash
+        '`.`#MMMMMMMM#*;,''',:|*%*,.......          . Stack.LLM: . LangChain, LangGraph, LlamaIndex, MCP
+        ,..';:,,:|%@%;'''',:,:;|*%(,.......         . Stack.Eval: ......... Ragas, LangSmith, Triton
+        '..`|;:,'';#%|:,,::``',|*%*|.......         . Cloud.MLOps: .. AWS, Azure, GCP, Docker, K8s
+         `.'|:;'`,;@M%((||;;;(%##%%*:.......        . Data: ......... Spark, Kafka, Pandas, NumPy
+          `'%*(|(%#MM@@####@@@@@@#%(;''`....
+           :MMMMMMMMMM@##*%#@@@##%*(|:;,....        . Hobbies.Outdoors: ........... Hiking, Travel
+            MMMM###%%|;|((((*%%%**((|;((...         . Hobbies.Indoors: .. Writing blogs & poetry
+            *#%*(%%*(;;(*%*|||(((((*|:;%`           . Schedule: ................... Night owl
+             **||***(||||(|,,;(((((('.,,..
+              %*|;:%@##%*(||(|(((((,......`         - Contact ------------------------------------------------
+               *%*#%*(|;;(*%*((|||:.......`.        . Email: ......... farheen.s.shaikh05@gmail.com
+                 *@@#****%%%*(||||'........`.       . LinkedIn: ................ farheen-shaikh0509
+                  ;#@M@@#%**||||||,....``...`       . X: ............................. @FarheenSS05
+                 .;#%**((|;;;|((||(|..```...``      . Portfolio: .. farheen-shaikh-portfolio.vercel.app
+                `:%@#%*|;;;;||(|;(M#;,`.....``      . LeetCode: ........................... fshaikh1
+                ;*#####%%%*((((|;#MMMMM*;'..```
+                |@M@%%#@M@%**%*(@MMMMMMMMM@;``'
+```
 
 ---
 
@@ -15,7 +41,7 @@ A Data & Research Science enthusiast who builds data-heavy LLM applications and 
 
 ```yaml
  location:   United States
- focus   :   database performance · AI/ML powered application development · LLM inference optimization 
+ focus   :   database performance · AI/ML powered application development · LLM inference optimization
  research:   feature engineering · retrieval systems · scalable data pipelines
  open_to :   research collabs · hackathons · open-source contributions
 ```
@@ -62,55 +88,36 @@ A Data & Research Science enthusiast who builds data-heavy LLM applications and 
   <img src="https://img.shields.io/badge/NumPy-F7931E?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-
 ---
 
 ## 📬 Connect
 
-
 <p align="center">
-
   <a href="mailto:farheen.s.shaikh05@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-
   <a href="https://www.linkedin.com/in/farheen-shaikh0509/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
   <a href="https://x.com/FarheenSS05" target="_blank">
- <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-
   <a href="https://farheen-shaikh-portfolio.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-
+    <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-
-<a href="https://leetcode.com/u/fshaikh1/" target="_blank">
-
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-
-</a>
-<a href="https://scholar.google.com/citations?user=cpGY_HMAAAAJ&hl=en" target="_blank">
-
-  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
-
-</a>
-
+  <a href="https://leetcode.com/u/fshaikh1/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  
-
+  <a href="https://scholar.google.com/citations?user=cpGY_HMAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+  </a>
 </p>
 
 ---
 
 ## 🌿 Behind the Screen
 <sub>🥾 **Hiking** — There's something about a quiet trail that makes everything else make sense.</sub><br>
-<sub>✈️ **Travel** — New cities, new turns, coffees at new restraunt — that's where the real stories live.</sub><br>
-<sub>🌙 **Night owl** — The best ideas also find during midnight, when the world goes quiet and the screen glows.</sub><br>
+<sub>✈️ **Travel** — New cities, new turns, coffees at new restaurants — that's where the real stories live.</sub><br>
+<sub>🌙 **Night owl** — The best ideas also find me during midnight, when the world goes quiet and the screen glows.</sub><br>
 <sub>⚡ **AWS Hackathon** — Built an autonomous agent that optimizes ETL/ELT pipeline performance.</sub><br>
 <sub>✍️ **Writing** — Blogs, technical notes, and poetry — because code isn't my only language.</sub>
