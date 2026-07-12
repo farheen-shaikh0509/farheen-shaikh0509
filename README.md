@@ -39,7 +39,7 @@ A Data & Research Science enthusiast who builds data-heavy LLM applications and 
 
 ```yaml
  location:   United States
- focus   :   database performance · AI/ML powered application development · Agentic Retrieval Workflow
+ focus   :   database performance Enhancement · AI/ML powered application · Agentic Retrieval Workflow
  research:   feature engineering · retrieval systems · scalable data pipelines
  open_to :   research collabs · hackathons · open-source contributions
 ```
