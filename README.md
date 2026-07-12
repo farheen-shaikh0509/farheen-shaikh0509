@@ -2,28 +2,28 @@
 
 ```text
                      .`````...`..
-                 ```':,''```````````                farheen@shaikh -----------------------------------------
-              `'''`'|*|;:'```````...`.              . Location: ................................ United States
-            .```,;*@MMMM#*|:`...........            . Role: .................. Data & Research Science | AI/ML
-           ```;#MMMMMMMMMM@#(:'..........           . Focus: ............ LLM apps, agentic RAG, inference opt
-          .``(MMMMMMMMMMMMM@@%(,.........           . Research: ...... feature engg, retrieval, data pipelines
+                 ```':,''```````````                farheen@shaikh -----------------------------------------------
+              `'''`'|*|;:'```````...`.              . Location: ...................................... United States
+            .```,;*@MMMM#*|:`...........            . Role: ........................ Data & Research Science | AI/ML
+           ```;#MMMMMMMMMM@#(:'..........           . Focus: .................. LLM apps, agentic RAG, inference opt
+          .``(MMMMMMMMMMMMM@@%(,.........           . Research: ............ feature engg, retrieval, data pipelines
          ...:MMMMMMMMMMMMMM@@#%(,.........
-         `..(MMMMMMMMMMMMM@#####*,........          . Languages.Programming: ......... Python, SQL, Java, Bash
-        '`.`#MMMMMMMM#*;,''',:|*%*,.......          . LLMs.Agents.RAG: . LangChain, LangGraph, LlamaIndex, MCP
-        ,..';:,,:|%@%;'''',:,:;|*%(,.......         . Stack.Eval: ............ RAGAS, LangSmith, NVIDIA Triton
-        '..`|;:,'';#%|:,,::``',|*%*|.......         . Cloud.MLOps: ....... AWS, Azure, GCP, Docker, Kubernetes
-         `.'|:;'`,;@M%((||;;;(%##%%*:.......        . Observability: ............. Spark, Kafka, Pandas, NumPy
+         `..(MMMMMMMMMMMMM@#####*,........          . Languages.Programming: ............... Python, SQL, Java, Bash
+        '`.`#MMMMMMMM#*;,''',:|*%*,.......          . LLMs.Agents.RAG: ....... LangChain, LangGraph, LlamaIndex, MCP
+        ,..';:,,:|%@%;'''',:,:;|*%(,.......         . Stack.Eval: .................. RAGAS, LangSmith, NVIDIA Triton
+        '..`|;:,'';#%|:,,::``',|*%*|.......         . Cloud.MLOps: ...Azure, GCP, GitHub Actions, Docker, Kubernetes
+         `.'|:;'`,;@M%((||;;;(%##%%*:.......        . Observability: ................... Spark, Kafka, Pandas, NumPy
           `'%*(|(%#MM@@####@@@@@@#%(;''`....
-           :MMMMMMMMMM@##*%#@@@##%*(|:;,....        . Hobbies.Outdoors: ....................... Hiking, Travel
-            MMMM###%%|;|((((*%%%**((|;((...         . Hobbies.Indoors: ................ Writing blogs & poetry
-            *#%*(%%*(;;(*%*|||(((((*|:;%`           . Schedule: .................................... Night owl
+           :MMMMMMMMMM@##*%#@@@##%*(|:;,....        . Hobbies.Outdoors: ............................ Hiking, Travel
+            MMMM###%%|;|((((*%%%**((|;((...         . Hobbies.Indoors: ..................... Writing blogs & poetry
+            *#%*(%%*(;;(*%*|||(((((*|:;%`           . Schedule: ......................................... Night owl
              **||***(||||(|,,;(((((('.,,..
-              %*|;:%@##%*(||(|(((((,......`         - Contact ------------------------------------------------
-               *%*#%*(|;;(*%*((|||:.......`.        . Email: .................... farheen.s.shaikh05@gmail.com
-                 *@@#****%%%*(||||'........`.       . LinkedIn: ........................... farheen-shaikh0509
-                  ;#@M@@#%**||||||,....``...`       . X: ........................................ @FarheenSS05
-                 .;#%**((|;;;|((||(|..```...``      . Portfolio: ......... farheen-shaikh-portfolio.vercel.app
-                `:%@#%*|;;;;||(|;(M#;,`.....``      . LeetCode: ..................................... fshaikh1
+              %*|;:%@##%*(||(|(((((,......`         - Contact -----------------------------------------------------
+               *%*#%*(|;;(*%*((|||:.......`.        . Email: ......................... farheen.s.shaikh05@gmail.com
+                 *@@#****%%%*(||||'........`.       . LinkedIn: ................................ farheen-shaikh0509
+                  ;#@M@@#%**||||||,....``...`       . X: ............................................. @FarheenSS05
+                 .;#%**((|;;;|((||(|..```...``      . Portfolio: .............. farheen-shaikh-portfolio.vercel.app
+                `:%@#%*|;;;;||(|;(M#;,`.....``      . LeetCode: .......................................... fshaikh1
                 ;*#####%%%*((((|;#MMMMM*;'..```
                 |@M@%%#@M@%**%*(@MMMMMMMMM@;``'
 ```
