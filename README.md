@@ -3,27 +3,27 @@
 ```text
                      .`````...`..
                  ```':,''```````````                farheen@shaikh -----------------------------------------
-              `'''`'|*|;:'```````...`.              . Location: ...................... United States
-            .```,;*@MMMM#*|:`...........            . Role: ......... Data & Research Science | AI/ML
-           ```;#MMMMMMMMMM@#(:'..........           . Focus: .... LLM apps, agentic RAG, inference opt
-          .``(MMMMMMMMMMMMM@@%(,.........           . Research: . feature engg, retrieval, data pipelines
+              `'''`'|*|;:'```````...`.              . Location: ................................ United States
+            .```,;*@MMMM#*|:`...........            . Role: .................. Data & Research Science | AI/ML
+           ```;#MMMMMMMMMM@#(:'..........           . Focus: ............ LLM apps, agentic RAG, inference opt
+          .``(MMMMMMMMMMMMM@@%(,.........           . Research: ...... feature engg, retrieval, data pipelines
          ...:MMMMMMMMMMMMMM@@#%(,.........
-         `..(MMMMMMMMMMMMM@#####*,........          . Languages.Programming: .. Python, SQL, Java, Bash
-        '`.`#MMMMMMMM#*;,''',:|*%*,.......          . Stack.LLM: . LangChain, LangGraph, LlamaIndex, MCP
-        ,..';:,,:|%@%;'''',:,:;|*%(,.......         . Stack.Eval: ......... Ragas, LangSmith, Triton
-        '..`|;:,'';#%|:,,::``',|*%*|.......         . Cloud.MLOps: .. AWS, Azure, GCP, Docker, K8s
-         `.'|:;'`,;@M%((||;;;(%##%%*:.......        . Data: ......... Spark, Kafka, Pandas, NumPy
+         `..(MMMMMMMMMMMMM@#####*,........          . Languages.Programming: ......... Python, SQL, Java, Bash
+        '`.`#MMMMMMMM#*;,''',:|*%*,.......          . LLMs.Agents.RAG: . LangChain, LangGraph, LlamaIndex, MCP
+        ,..';:,,:|%@%;'''',:,:;|*%(,.......         . Stack.Eval: ............ RAGAS, LangSmith, NVIDIA Triton
+        '..`|;:,'';#%|:,,::``',|*%*|.......         . Cloud.MLOps: ....... AWS, Azure, GCP, Docker, Kubernetes
+         `.'|:;'`,;@M%((||;;;(%##%%*:.......        . Observability: ............. Spark, Kafka, Pandas, NumPy
           `'%*(|(%#MM@@####@@@@@@#%(;''`....
-           :MMMMMMMMMM@##*%#@@@##%*(|:;,....        . Hobbies.Outdoors: ........... Hiking, Travel
-            MMMM###%%|;|((((*%%%**((|;((...         . Hobbies.Indoors: .. Writing blogs & poetry
-            *#%*(%%*(;;(*%*|||(((((*|:;%`           . Schedule: ................... Night owl
+           :MMMMMMMMMM@##*%#@@@##%*(|:;,....        . Hobbies.Outdoors: ....................... Hiking, Travel
+            MMMM###%%|;|((((*%%%**((|;((...         . Hobbies.Indoors: ................ Writing blogs & poetry
+            *#%*(%%*(;;(*%*|||(((((*|:;%`           . Schedule: .................................... Night owl
              **||***(||||(|,,;(((((('.,,..
               %*|;:%@##%*(||(|(((((,......`         - Contact ------------------------------------------------
-               *%*#%*(|;;(*%*((|||:.......`.        . Email: ......... farheen.s.shaikh05@gmail.com
-                 *@@#****%%%*(||||'........`.       . LinkedIn: ................ farheen-shaikh0509
-                  ;#@M@@#%**||||||,....``...`       . X: ............................. @FarheenSS05
-                 .;#%**((|;;;|((||(|..```...``      . Portfolio: .. farheen-shaikh-portfolio.vercel.app
-                `:%@#%*|;;;;||(|;(M#;,`.....``      . LeetCode: ........................... fshaikh1
+               *%*#%*(|;;(*%*((|||:.......`.        . Email: .................... farheen.s.shaikh05@gmail.com
+                 *@@#****%%%*(||||'........`.       . LinkedIn: ........................... farheen-shaikh0509
+                  ;#@M@@#%**||||||,....``...`       . X: ........................................ @FarheenSS05
+                 .;#%**((|;;;|((||(|..```...``      . Portfolio: ......... farheen-shaikh-portfolio.vercel.app
+                `:%@#%*|;;;;||(|;(M#;,`.....``      . LeetCode: ..................................... fshaikh1
                 ;*#####%%%*((((|;#MMMMM*;'..```
                 |@M@%%#@M@%**%*(@MMMMMMMMM@;``'
 ```
@@ -39,7 +39,7 @@ A Data & Research Science enthusiast who builds data-heavy LLM applications and 
 
 ```yaml
  location:   United States
- focus   :   database performance · AI/ML powered application development · LLM inference optimization
+ focus   :   database performance · AI/ML powered application development · Agentic Retrieval Workflow
  research:   feature engineering · retrieval systems · scalable data pipelines
  open_to :   research collabs · hackathons · open-source contributions
 ```
