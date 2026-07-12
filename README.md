@@ -1,11 +1,4 @@
-<p align="center">
-    <img src="./github_profile_banner_farheen.svg" alt="banner" width="100%"/>
-  <img src="https://komarev.com/ghpvc/?username=farheen-shaikh530&label=Profile%20views&color=blueviolet&style=flat-square"/>
-</p>
 
-## Hi, I'm Farheen 👋
-
-A Data & Research Science enthusiast who builds data-heavy LLM applications and Insights. Focusing on feature engineering, agentic RAG retrieval, and inference optimization. This enabled me to deliver scalable, accurate models and web applications.
 
 ```text
                      .`````...`..
@@ -34,6 +27,11 @@ A Data & Research Science enthusiast who builds data-heavy LLM applications and 
                 ;*#####%%%*((((|;#MMMMM*;'..```
                 |@M@%%#@M@%**%*(@MMMMMMMMM@;``'
 ```
+
+## Hi, I'm Farheen 👋
+
+A Data & Research Science enthusiast who builds data-heavy LLM applications and Insights. Focusing on feature engineering, agentic RAG retrieval, and inference optimization. This enabled me to deliver scalable, accurate models and web applications.
+
 
 ---
 
