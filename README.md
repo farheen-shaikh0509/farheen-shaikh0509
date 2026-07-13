@@ -1,120 +1,210 @@
 <p align="center">
-    <img src="./github_profile_banner_farheen.svg" alt="banner" width="100%"/>
+  <img src="./github_profile_banner_farheen.svg" alt="banner" width="100%"/>
 
-  <img src="https://komarev.com/ghpvc/?username=farheen-shaikh530&label=Profile%20views&color=blueviolet&style=flat-square"/>
- 
+  <img src="https://komarev.com/ghpvc/?username=farheen-shaikh530&label=Profile%20Views&color=blueviolet&style=flat-square"/>
 </p>
 
-## Hi, I'm Farheen 👋
+# Hi, I'm Farheen 👋
 
 AI Software Developer seeking entry-level opportunities in AI platforms, backend systems, and data engineering. I build production-ready AI applications using LLMs, Agentic AI, Retrieval-Augmented Generation (RAG), and scalable backend architectures. My experience includes developing LLM evaluation frameworks, agentic systems, ML pipelines, and RESTful microservices with a focus on reliability, retrieval quality, and inference optimization.
-
-
 
 I enjoy solving engineering challenges at the intersection of model behavior, distributed systems, and scalable software infrastructure. With a background in both frontend and backend development, I build end-to-end AI-powered applications that transform data into intelligent products and actionable insights.
 
 ---
 
-## ⚡  Currently
+# ⚡ Current Focus
 
 ```yaml
- location:   United States
- focus   :   database performance · AI/ML powered application development · LLM inference optimization 
- research:   feature engineering · retrieval systems · scalable data pipelines
- open_to :   research collabs · hackathons · open-source contributions
+Location:
+  United States
+
+Currently Building:
+  - Agentic AI Applications
+  - Retrieval-Augmented Generation (RAG)
+  - LLM Evaluation Frameworks
+  - AI Platform & Backend Services
+
+Research Interests:
+  - Agentic AI
+  - Retrieval Systems
+  - AI Reliability
+  - Inference Optimization
+  - Distributed Systems
+  - Scalable Data Pipelines
+
+Open To:
+  - AI Engineer Roles
+  - Data Engineer Roles
+  - Backend Engineering
+  - Research Collaborations
+  - Open Source
 ```
 
 ---
 
-## 🛠 Tech Stacks
-<p align="center"><strong>· Languages · Databases</strong></p>
-<p align="center">
-    <img src="https://img.shields.io/badge/SQL-F29111?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PYTHON-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED3838?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</p>
+# 🛠 Tech Stack
 
-<p align="center"><strong>· LLMs · Agents · RAG</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anthropic-6B4FBB?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-2D9B6E?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangSmith-E86942?style=for-the-badge&logo=langchain&logoColor=white"/>
-</p>
-
-<p align="center"><strong>· Observability · Fine-Tuning</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LlamaIndex-6C3BF4?style=for-the-badge&logo=llamaindex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ragas-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Monte_Carlo_Simulation-00897B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MCP-C2185B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Triton_Inference_Server-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-</p>
-
-<p align="center"><strong>· Cloud · MLOps</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-05B2DC?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-F7931E?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-
----
-
-## 📬 Connect
-
+## 💻 Programming & Backend
 
 <p align="center">
 
-  <a href="mailto:farheen.s.shaikh05@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-  </a>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-  <a href="https://www.linkedin.com/in/farheen-shaikh0509/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
 
-  </a>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-  <a href="https://x.com/FarheenSS05" target="_blank">
- <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-  </a>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 
-  <a href="https://farheen-shaikh-portfolio.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-
-  </a>
-
-<a href="https://leetcode.com/u/fshaikh1/" target="_blank">
-
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-
-</a>
-<a href="https://scholar.google.com/citations?user=cpGY_HMAAAAJ&hl=en" target="_blank">
-
-  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
-
-</a>
-
-  </a>
-  
+<img src="https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 
 </p>
 
 ---
 
-## 🌿 Behind the Screen
-<sub>🥾 **Hiking** — There's something about a quiet trail that makes everything else make sense.</sub><br>
-<sub>✈️ **Travel** — New cities, new turns, coffees at new restraunt — that's where the real stories live.</sub><br>
-<sub>🌙 **Night owl** — The best ideas also find during midnight, when the world goes quiet and the screen glows.</sub><br>
-<sub>⚡ **AWS Hackathon** — Built an autonomous agent that optimizes ETL/ELT pipeline performance.</sub><br>
-<sub>✍️ **Writing** — Blogs, technical notes, and poetry — because code isn't my only language.</sub>
+## 🤖 Agentic AI • LLMs • RAG
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangGraph-2D9B6E?style=for-the-badge&logo=langchain&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LlamaIndex-6C3BF4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MCP-C2185B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAGAS-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangSmith-E86942?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🧠 Machine Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/XGBoost-0066CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Triton_Inference_Server-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+
+</p>
+
+---
+
+## 📊 Data Engineering
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+</p>
+
+---
+
+## 🗄 Databases & Vector Search
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ChromaDB-7B3FE4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pinecone-00A98F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Azure_AI_Search-0078D4?style=for-the-badge"/>
+
+</p>
+
+---
+
+## ☁️ Cloud • DevOps
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+
+</p>
+
+---
+
+# 📬 Connect With Me
+
+<p align="center">
+
+<a href="mailto:farheen.s.shaikh05@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/farheen-shaikh0509/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://farheen-shaikh-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/fshaikh1/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://scholar.google.com/citations?user=cpGY_HMAAAAJ&hl=en">
+<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+</a>
+
+<a href="https://x.com/FarheenSS05">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🌿 Beyond Engineering
+
+- 🥾 Hiking and exploring nature
+- ✈️ Traveling and discovering new places
+- 🌙 Night owl who enjoys building side projects
+- ⚡ Hackathon enthusiast focused on AI and cloud technologies
+- ✍️ Writing technical blogs, notes, and poetry
+
