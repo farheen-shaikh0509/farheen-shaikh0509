@@ -7,7 +7,11 @@
 
 ## Hi, I'm Farheen 👋
 
-A Data & Research Science enthusiast who builds data-heavy LLM applications and Insights. Focusing on feature engineering, agentic RAG retrieval, and inference optimization.  This enabled me to deliver scalable, accurate models and web applications.
+AI Software Developer seeking entry-level opportunities in AI platforms, backend systems, and data engineering. I build production-ready AI applications using LLMs, Agentic AI, Retrieval-Augmented Generation (RAG), and scalable backend architectures. My experience includes developing LLM evaluation frameworks, agentic systems, ML pipelines, and RESTful microservices with a focus on reliability, retrieval quality, and inference optimization.
+
+
+
+I enjoy solving engineering challenges at the intersection of model behavior, distributed systems, and scalable software infrastructure. With a background in both frontend and backend development, I build end-to-end AI-powered applications that transform data into intelligent products and actionable insights.
 
 ---
 
