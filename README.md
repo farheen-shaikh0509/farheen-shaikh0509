@@ -20,12 +20,11 @@ Location:
 
 Currently Building:
   - Agentic AI Applications
-  - Retrieval-Augmented Generation (RAG)
+  - GenAI Applications
   - LLM Evaluation Frameworks
   - AI Platform & Backend Services
 
 Research Interests:
-  - Agentic AI
   - Retrieval Systems
   - AI Reliability
   - Inference Optimization
