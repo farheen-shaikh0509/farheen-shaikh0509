@@ -117,16 +117,6 @@ Open To:
 
 ---
 
-## 📡 Streaming & Messaging
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-
-</p>
-
----
-
 ## 🗄 Databases • Vector Search
 
 <p align="center">
