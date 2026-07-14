@@ -77,8 +77,6 @@ Open To:
 
 <img src="https://img.shields.io/badge/ChromaDB-7B3FE4?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Pinecone-00A98F?style=for-the-badge"/>
-
 </p>
 
 ---
@@ -116,7 +114,6 @@ Open To:
 
 <img src="https://img.shields.io/badge/RAGAS-FF6F00?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LangSmith-E86942?style=for-the-badge"/>
 
 </p>
 
