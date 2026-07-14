@@ -33,11 +33,9 @@ Research Interests:
   - Scalable Data Pipelines
 
 Open To:
-  - AI Engineer Roles
-  - Data Engineer Roles
-  - Backend Engineering
   - Research Collaborations
   - Open Source
+  - Hackathons
 ```
 
 ---
