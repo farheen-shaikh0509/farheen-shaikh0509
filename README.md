@@ -6,7 +6,7 @@
 
 # Hi, I'm Farheen 👋
 
-Software Engineer seeking entry-level opportunities in AI platforms and backend systems. I build production-ready AI applications using LLMs, Agentic AI, Retrieval-Augmented Generation (RAG), and scalable backend architectures. My experience includes developing LLM evaluation frameworks, agentic systems, ML pipelines, and RESTful microservices with a focus on reliability, retrieval quality, and inference optimization.
+Software Engineer seeking entry-level opportunities in AI platforms and backend systems. I build production-ready AI applications using LLMs, Agentic AI, Retrieval-Augmented Generation (RAG), and scalable backend architectures. My experience includes developing LLM evaluation frameworks, agentic systems, ML pipelines, and RESTful microservices with a focus on reliability, retrieval quality, and  optimization.
 
 I enjoy solving engineering challenges at the intersection of model behavior, distributed systems, and scalable software infrastructure. With a background in both frontend and backend development, I build end-to-end AI-powered applications that transform data into intelligent products and actionable insights.
 
@@ -18,22 +18,22 @@ I enjoy solving engineering challenges at the intersection of model behavior, di
 Location:
   United States
 
-Currently Building:
-  - Agentic AI Applications
-  - GenAI Applications
-  - LLM Evaluation Frameworks
+Currently Engineering:
   - AI Platform & Backend Services
+  - GenAI Applications
+
 
 Research Interests:
-  - Retrieval Systems
-  - AI Reliability
-  - Inference Optimization
   - Distributed Systems
   - Scalable Data Pipelines
+  - Database Optimization
+  - Retrieval Systems
+  - AI Reliability
+
 
 Open To:
   - Research Collaborations
-  - Open Source
+  - Open Source Contributions
   - Hackathons
 ```
 
