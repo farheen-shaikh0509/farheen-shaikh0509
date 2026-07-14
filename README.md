@@ -6,7 +6,7 @@
 
 # Hi, I'm Farheen 👋
 
-Software Engineer seeking entry-level opportunities in AI platforms and backend systems. I build production-ready AI applications using LLMs, Agentic AI, Retrieval-Augmented Generation (RAG), and scalable backend architectures. My experience includes developing LLM evaluation frameworks, agentic systems, ML pipelines, and RESTful microservices with a focus on reliability, retrieval quality, and  optimization.
+Software Engineer seeking entry-level opportunities in AI platforms and backend systems. I build production-ready AI applications using LLMs, Retrieval-Augmented Generation (RAG), and scalable backend architectures. My experience includes developing LLM evaluation frameworks, agentic systems, ML pipelines, and RESTful microservices with a focus on reliability, retrieval quality, and  optimization.
 
 I enjoy solving engineering challenges at the intersection of model behavior, distributed systems, and scalable software infrastructure. With a background in both frontend and backend development, I build end-to-end AI-powered applications that transform data into intelligent products and actionable insights.
 
@@ -26,7 +26,6 @@ Currently Engineering:
 Research Interests:
   - Distributed Systems
   - Scalable Data Pipelines
-  - Database Optimization
   - Retrieval Systems
   - AI Reliability
 
@@ -62,65 +61,7 @@ Open To:
 
 ---
 
-## 🤖 Agentic AI • LLMs • RAG
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/LangGraph-2D9B6E?style=for-the-badge&logo=langchain&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/LlamaIndex-6C3BF4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MCP-C2185B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAGAS-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LangSmith-E86942?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🧠 Machine Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/XGBoost-0066CC?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Triton_Inference_Server-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-
-</p>
-
----
-
-## 📊 Data Engineering
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-</p>
-
----
-
-## 🗄 Databases & Vector Search
+## 🗄 Databases
 
 <p align="center">
 
@@ -159,6 +100,28 @@ Open To:
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+
+</p>
+
+---
+
+## 🤖 Agentic AI • LLMs • RAG
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangGraph-2D9B6E?style=for-the-badge&logo=langchain&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LlamaIndex-6C3BF4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MCP-C2185B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAGAS-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangSmith-E86942?style=for-the-badge"/>
 
 </p>
 
