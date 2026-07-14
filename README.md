@@ -79,8 +79,6 @@ Open To:
 
 <img src="https://img.shields.io/badge/Pinecone-00A98F?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Azure_AI_Search-0078D4?style=for-the-badge"/>
-
 </p>
 
 ---
