@@ -103,15 +103,12 @@ Open To:
 
 ---
 
-## 🤖 Agentic AI • LLMs • RAG
+## 🤖 LLMs • RAG
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/LangGraph-2D9B6E?style=for-the-badge&logo=langchain&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/LlamaIndex-6C3BF4?style=for-the-badge"/>
 
@@ -157,11 +154,11 @@ Open To:
 
 ---
 
-# 🌿 Beyond Engineering
+# 🌙 Beyond Engineering
 
 - 🥾 Hiking and exploring nature
 - ✈️ Traveling and discovering new places
-- 🌙 Night owl who enjoys building side projects
+- 💫 Night owl who enjoys building side projects
 - ⚡ Hackathon enthusiast focused on AI and cloud technologies
 - ✍️ Writing technical blogs, notes, and poetry
 
