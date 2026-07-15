@@ -162,7 +162,7 @@ Open To:
 
 <p align="center">
 
-<a href="mailto:farheen.s.shaikh05@gmail.com">
+<a href="mailto:farheen.s.shaikh55@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -180,10 +180,6 @@ Open To:
 
 <a href="https://scholar.google.com/citations?user=cpGY_HMAAAAJ&hl=en">
 <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-</a>
-
-<a href="https://x.com/FarheenSS05">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </p>
