@@ -178,10 +178,6 @@ Open To:
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://scholar.google.com/citations?user=cpGY_HMAAAAJ&hl=en">
-<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-</a>
-
 </p>
 
 ---
