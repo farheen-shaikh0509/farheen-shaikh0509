@@ -6,7 +6,7 @@
 
 # Hi, I'm Farheen 👋
 
-Software Engineer seeking entry-level opportunities in AI and backend systems. Experience in building LLM-based applications, including RAG solutions and evaluation frameworks, with a focus on scalability, reliability and performance. Familiar with cloud infrastructure, ML pipelines, and distributed systems. I'm a hands-on builder, particularly interested in model behavior and system reliability.
+Software Engineer seeking opportunities in AI and backend systems. Experience in building LLM-based applications, including RAG solutions and evaluation frameworks, with a focus on scalability, reliability and performance. Familiar with cloud infrastructure, ML pipelines, and distributed systems. I'm a hands-on builder, particularly interested in model behavior and system reliability.
 
 
 ---
