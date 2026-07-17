@@ -132,6 +132,8 @@ Open To:
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+
 
 </p>
 
