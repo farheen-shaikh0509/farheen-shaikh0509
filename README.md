@@ -6,7 +6,8 @@
 
 # Hi, I'm Farheen 👋
 
-Software Engineer seeking roles in AI and backend systems. Experienced in building LLM-based applications, including agentic systems, automation frameworks, and AI-assisted development, with a focus on quality and reliability. Familiar with cloud infrastructure, LLM pipelines, and distributed systems. I'm a hands-on creative builder, particularly interested in the intersection of models' behavior and system reliability.
+Software Engineer with $\sim$4 years of experience in AI and backend systems. Experienced in building LLM-based applications, including agentic systems and automation frameworks, with a focus on scalability and reliable AI-assisted development. Specialized in cloud infrastructure, LLM frameworks, and distributed systems. I'm a hands-on builder, particularly interested in the intersection of models’ behavior and system reliability.
+
 
 ---
 
