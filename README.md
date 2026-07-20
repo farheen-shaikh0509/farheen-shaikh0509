@@ -6,7 +6,32 @@
 
 # Hi, I'm Farheen 👋
 
-Software Engineer with $\sim$4 years of experience in AI and backend systems. Experienced in building LLM-based applications, including agentic systems and automation frameworks, with a focus on scalability and reliable AI-assisted development. Specialized in cloud infrastructure, LLM frameworks, and distributed systems. I'm a hands-on builder, particularly interested in the intersection of models’ behavior and system reliability.
+I’m a Software Engineer, experienced in building AI-powered applications, distributed systems, and cloud-native platforms that solve data-heavy system problems such as system reliability, latency, and scaling limits. Over the past 4 years, I’ve developed scalable backend systems, AI agents, and retrieval platforms for enterprise customers and growing internal teams, with experience at DoorDash and a startup.
+
+
+Throughout my career, I’ve learned that great software isn’t defined by the number of features it has—it’s defined by the problems it solves. Whether reducing deployment latency, improving developer productivity, or building reliable AI systems, I enjoy translating complex technical challenges into scalable, production-ready solutions using a verbal approach(Documentation).
+
+
+
+
+A few things that make my approach different:
+
+• I work with a multi-functional team and contribute to the full SDLC + AI-DLC phases of service delivery
+
+• I’m highly responsive and keep you moving with real-time, practical feedback
+
+• I love solving problems at scale by improving the foundation systems that power reliability
+ 
+• I valued a diverse approach for identifying the root cause with the mindset of getting quality things done
+
+
+
+My background includes Python, Java, JavaScript, Kubernetes, AWS, GCP, MySQL, DynamoDB, Kafka, React, FastAPI, Terraform, REST APIs, AI Agents, and Distributed Systems.
+
+
+
+I would love to connect with fellow engineers, recruiters, founders, and technology leaders working on AI platforms, distributed systems, and mentors to exchange ideas.
+
 
 
 ---
