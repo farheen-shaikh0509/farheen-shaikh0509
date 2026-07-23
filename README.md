@@ -9,9 +9,9 @@
 
 ## 🧭 About Me
 
-I'm a Software Engineer experienced in building AI-powered applications, distributed systems, and cloud-native platforms that solve data-heavy system problems — reliability, latency, and scaling limits. Over the past 4 years, I've built scalable backend systems, AI agents, and retrieval platforms for enterprise customers and growing internal teams, with experience at **DoorDash** and a startup.
+I’m a Software Engineer with 4+ years of experience building AI-powered applications, distributed systems, and cloud-native platforms. I enjoy solving complex engineering challenges around system reliability, latency, scalability, and developer productivity.
 
-Great software isn't defined by how many features it has — it's defined by the problems it solves. Whether that's cutting deployment latency, improving developer productivity, or building reliable AI systems, I enjoy turning complex technical challenges into scalable, production-ready solutions backed by clear documentation.
+Throughout my career, I’ve learned that great software isn’t defined by the number of features it has—it’s defined by the problems it solves. I enjoy building systems that are reliable, easy to understand, and designed with the end user in mind because simple, trustworthy software creates better customer experiences.
 
 **What makes my approach different:**
 
