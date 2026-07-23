@@ -121,9 +121,10 @@ Open To:
 
 </p>
 
+
 ---
 
-## 🚀 AI Performance • Optimization
+## 📊 Observability • Evaluation
 
 <p align="center">
 
@@ -134,18 +135,6 @@ Open To:
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white"/>
-
-</p>
-
----
-
-## 📊 Observability • Evaluation
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/LangSmith-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Arize_Phoenix-FF6F00?style=for-the-badge"/>
 
 </p>
 
