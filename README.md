@@ -46,7 +46,7 @@ Open To:
 
 ## 🛠 Tech Stack
 
-**💻 Programming Languages**
+**Programming Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -56,7 +56,7 @@ Open To:
   <img src="https://img.shields.io/badge/Bash/Shell-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
-**⚙️ Backend & Frameworks**
+**Backend & Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -64,7 +64,7 @@ Open To:
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-**🤖 AI · LLM Engineering**
+**AI · LLM Engineering**
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangGraph-0F766E?style=for-the-badge"/>
@@ -75,7 +75,7 @@ Open To:
   <img src="https://img.shields.io/badge/RAGAS-FF6F00?style=for-the-badge"/>
 </p>
 
-**📊 Observability & Evaluation**
+**Observability & Evaluation**
 <p align="left">
   <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
@@ -83,7 +83,7 @@ Open To:
   <img src="https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white"/>
 </p>
 
-**☁️ Cloud & DevOps**
+**Cloud & DevOps**
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
@@ -94,7 +94,7 @@ Open To:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-**🗄 Databases & Vector Search**
+**Databases & Vector Search**
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -108,7 +108,7 @@ Open To:
 
 ## 📬 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="mailto:farheen.s.shaikh05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
