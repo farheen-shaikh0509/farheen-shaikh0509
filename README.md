@@ -36,7 +36,7 @@ I'd love to connect with fellow engineers, recruiters, founders, and technology 
 
 ```yaml
 Location:
-  United States
+California, United States
 Currently Engineering:
   - AI Platform & Backend Services
   - GenAI Applications
