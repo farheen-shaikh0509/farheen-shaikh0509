@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="./github_profile_banner_farheen.svg" alt="banner" width="100%"/>
 
-<p align="center">
 
 
 <img src="https://komarev.com/ghpvc/?username=farheen-shaikh530&label=Welcome!%20Thanks%20for%20visiting!&color=blueviolet&style=flat-square" alt="Visitor Count" />
