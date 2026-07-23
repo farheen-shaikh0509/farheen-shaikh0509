@@ -58,7 +58,6 @@ Research Interests:
 
 
 Open To:
-  - Research Collaborations
   - Open Source Contributions
   - Hackathons
 ```
