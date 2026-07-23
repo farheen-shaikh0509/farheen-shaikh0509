@@ -1,10 +1,15 @@
 <p align="center">
   <img src="./github_profile_banner_farheen.svg" alt="banner" width="100%"/>
 
-  <img src="https://komarev.com/ghpvc/?username=farheen-shaikh530&label=Profile%20Views&color=blueviolet&style=flat-square"/>
+<p align="center">
+
+
+<img src="https://komarev.com/ghpvc/?username=farheen-shaikh530&label=Welcome!%20Thanks%20for%20visiting!&color=blueviolet&style=flat-square" alt="Visitor Count" />
+
+</p>
 </p>
 
-# Hi, I'm Farheen 👋
+# Hi, I'm Farheen 
 
 I’m a Software Engineer, experienced in building AI-powered applications, distributed systems, and cloud-native platforms that solve data-heavy system problems such as system reliability, latency, and scaling limits. Over the past 4 years, I’ve developed scalable backend systems, AI agents, and retrieval platforms for enterprise customers and growing internal teams, with experience at DoorDash and a startup.
 
