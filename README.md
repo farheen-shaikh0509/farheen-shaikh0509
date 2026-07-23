@@ -13,12 +13,20 @@ I’m a Software Engineer with 4+ years of experience building AI-powered applic
 
 Throughout my career, I’ve learned that great software isn’t defined by the number of features it has—it’s defined by the problems it solves. I enjoy building systems that are reliable, easy to understand, and designed with the end user in mind because simple, trustworthy software creates better customer experiences.
 
-**What makes my approach different:**
+<br>
 
-- 🤝 I work across multi-functional teams and contribute to the full SDLC + AI-DLC phases of service delivery
-- ⚡ I'm highly responsive and keep projects moving with real-time, practical feedback
-- 🏗️ I love solving problems at scale by strengthening the foundational systems that power reliability
-- 🔍 I take a diverse approach to root-causing issues, with a mindset of getting quality things done
+### A few things that make my approach different:
+
+- 🤝 **Build for People:** I iterate quickly, incorporate feedback, and continuously improve developer and customer experiences.
+
+- ⚙️ **Engineer for Scale:** I enjoy solving problems at scale by building reliable platform foundations that improve performance, scalability, and resilience.
+
+- 👥 **Work Together:** I collaborate with cross-functional teams and contribute across the full software development lifecycle (SDLC) and AI development lifecycle (AI-DLC), from design through production.
+
+- 🎯 **Own the Outcome:** I value thoughtful collaboration, root-cause analysis, and taking ownership to deliver reliable solutions.
+
+<br>
+<br>
 
 I'd love to connect with fellow engineers, recruiters, founders, and technology leaders working on AI platforms and distributed systems — and with mentors looking to exchange ideas.
 
@@ -52,7 +60,6 @@ Open To:
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash/Shell-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
