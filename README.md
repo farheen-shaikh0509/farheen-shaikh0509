@@ -17,13 +17,13 @@ Throughout my career, I’ve learned that great software isn’t defined by the 
 
 ### A few things that make my approach different:
 
-- 🤝 **Build for People:** I iterate quickly, incorporate feedback, and continuously improve developer and customer experiences.
+- I iterate quickly, incorporate feedback, and continuously improve developer and customer experiences.
 
-- ⚙️ **Engineer for Scale:** I enjoy solving problems at scale by building reliable platform foundations that improve performance, scalability, and resilience.
+- I enjoy solving problems at scale by building reliable platform foundations that improve performance, scalability, and resilience.
 
-- 👥 **Work Together:** I collaborate with cross-functional teams and contribute across the full software development lifecycle (SDLC) and AI development lifecycle (AI-DLC), from design through production.
+- I collaborate with cross-functional teams and contribute across the full software development lifecycle (SDLC) and AI development lifecycle (AI-DLC), from design through production.
 
-- 🎯 **Own the Outcome:** I value thoughtful collaboration, root-cause analysis, and taking ownership to deliver reliable solutions.
+- I value thoughtful collaboration, root-cause analysis, and taking ownership to deliver reliable solutions.
 
 <br>
 <br>
