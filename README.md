@@ -9,9 +9,10 @@
 
 ## 🧭 About Me
 
-I’m a Software Engineer with 4+ years of experience building AI-powered applications, distributed systems, and cloud-native platforms. I enjoy solving complex engineering challenges around system reliability, latency, scalability, and developer productivity.
+I’m a Software Engineer with 4 years of experience building AI-powered applications, distributed systems, and cloud-native platforms. I love solving complex engineering challenges around system reliability, latency, scalability, and developer productivity.
 
-Throughout my career, I’ve learned that great software isn’t defined by the number of features it has—it’s defined by the problems it solves. I enjoy building systems that are reliable, easy to understand, and designed with the end user in mind because simple, trustworthy software creates better customer experiences.
+Throughout my career, I’ve learned that great software isn’t defined by the number of features it has—it’s defined by the problems it solves. I enjoy building systems that are reliable, easy to understand, and designed with the end user in mind because simple, trustworthy systems create better customer experiences.
+
 
 <br>
 
