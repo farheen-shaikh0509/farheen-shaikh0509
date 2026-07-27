@@ -1,15 +1,17 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farheen-shaikh530&label=Welcome!%20Thanks%20for%20visiting!&color=blueviolet&style=flat-square" alt="Visitor Count" />
-</p>
 
 <h1 align="center">Hi, I'm Farheen 👋</h1>
-<h3 align="center">Software Engineer — AI Platforms · Distributed Systems · Cloud-Native Backend</h3>
+<h3 align="center">Software Engineer — AI Platforms · Distributed Systems · Cloud-Native Backend</h3><p align="center">
+
+  <br> 
+<img src="https://komarev.com/ghpvc/?username=farheen-shaikh530&label=Thank%20you%20for%20visiting%20my%20page!%20You%20are%20visitor%20number&color=blueviolet&style=flat-square" alt="Visitor Count" />
+</p>
+
 
 <br>
 
 ## 🧭 About Me
 
-I’m a Software Engineer with 4 years of experience building AI-powered applications, distributed systems, and cloud-native platforms. I love solving complex engineering challenges around system reliability, latency, scalability, and developer productivity.
+I’m a Software Engineer with 4 years of experience building AI-powered applications, distributed systems, and cloud-native platforms. I love solving engineering challenges around system reliability, latency, scalability, and developer productivity.
 
 Throughout my career, I’ve learned that great software isn’t defined by the number of features it has—it’s defined by the problems it solves. I enjoy building systems that are reliable, easy to understand, and designed with the end user in mind because simple, trustworthy systems create better customer experiences.
 
