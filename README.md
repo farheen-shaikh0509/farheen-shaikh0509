@@ -11,7 +11,7 @@
 
 ## 🧭 About Me
 
-**2020.** I graduated during COVID, when uncertainty became the new normal. Starting my software engineering career in that environment taught me resilience, adaptability, and that **growth begins where certainty ends**. Outside work, I volunteered in health awareness campaigns because creating impact goes beyond writing code.
+**2020.** I graduated during COVID, when uncertainty became the new normal. Starting my software engineering career in that environment taught me resilience, adaptability, and that growth begins where certainty ends. Outside work, I volunteered in health awareness campaigns because creating impact goes beyond writing code. It also sparked my passion for building data-driven solutions that turn insights into action.
 
 **2022.** I took my first big leap by joining **DoorDash's first engineering office**. It meant leaving my hometown for the first time. My dad's first response? **"No."** Mine? **"I'm going."** It became one of the best decisions of my career. I built **distributed systems**, **cloud-native applications**, **scalable microservices**, and **event-driven platforms** on **AWS**, improving reliability and developer productivity. Along the way, I mentored junior engineers and interns because I believe great engineers don't just build systems—they help others grow.
 
