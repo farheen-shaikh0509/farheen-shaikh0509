@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Farheen 👋</h1>
-<h3 align="center">Software Engineer — AI Platforms · Distributed Systems · Cloud-Native Backend</h3><p align="center">
+<h3 align="center">Software Engineer — Building AI Platforms, Distributed Systems, And Managing Cloud-Native Backend</h3><p align="center">
 
   <br> 
 <img src="https://komarev.com/ghpvc/?username=farheen-shaikh530&label=Thank%20you%20for%20visiting%20my%20page!%20You%20are%20visitor%20number&color=blueviolet&style=flat-square" alt="Visitor Count" />
