@@ -9,7 +9,7 @@
 
 <br>
 
-## 🧭 About Me
+## About Me
 
 **2020.** I graduated during COVID, when uncertainty became the new normal. Starting my software engineering career in that environment taught me resilience, adaptability, and that growth begins where certainty ends. Outside work, I volunteered in health awareness campaigns because creating impact goes beyond writing code. It also sparked my passion for building data-driven solutions that turn insights into action.
 
