@@ -11,23 +11,25 @@
 
 ## About Me
 
-**2020.** I graduated during COVID, when uncertainty became the new normal. Starting my software engineering career in that environment taught me resilience, adaptability, and that growth begins where certainty ends. Outside work, I volunteered in health awareness campaigns because creating impact goes beyond writing code. It also sparked my passion for building data-driven solutions that turn insights into action.
+**2020.** I graduated during COVID, when uncertainty became the new normal. Starting my software engineering career in that environment taught me resilience, adaptability, and that growth begins where certainty ends. With work, I volunteered in 10+ awareness campaigns and built data-driven dashboards using SQL and Python that turn forecasts and insights into action.
 
-**2022.** I took my first big leap by joining **DoorDash's first engineering office**. It meant leaving my hometown for the first time. My dad's first response? **"No."** Mine? **"I'm going."** It became one of the best decisions of my career. I built **distributed systems**, **cloud-native applications**, **scalable microservices**, and **event-driven platforms** on **AWS**, improving reliability and developer productivity. Along the way, I mentored junior engineers and interns because I believe great engineers don't just build systems—they help others grow.
+**2022.** I took my first big leap by joining DoorDash’s first engineering office. It meant leaving my hometown for the first time. Mom said? “No.” Mine? “Yes.” It became one of the best decisions of my career. I built distributed systems processing 20,000+ services, developed cloud-native microservices and event-driven platforms on EKS, contributed to 99.9% system reliability, and mentored 10+ interns and junior engineers because I believe in learning in collaboration.
 
-**2024.** I wanted to become the next version of myself. So I packed my bags again—this time for **California** to pursue my **Master's in Computer Science**. Inspired by the Bay Area's culture of innovation, I deepened my expertise in **AI Systems**, **Multi-Agent Architectures**, **RAG**, **Distributed Computing**, **Cloud Infrastructure**, and **Observability**, turning curiosity into real-world engineering solutions.
+**2024.** I wanted to become the next version of myself. So I packed my bags again—this time for California to pursue my Master’s. Inspired by the Bay Area’s culture of innovation, I built multi-agent AI systems, RAG pipelines serving 5,000+ developer queries, and observability platforms that reduced incident investigation time from 30 minutes to 20 seconds, turning curiosity into engineering solutions.
 
-**2026.** I graduated with my Master's degree, published **two research papers**, presented at **international conferences**, and proudly represented my university. These experiences strengthened my passion for research, innovation, and solving challenging engineering problems through both academia and industry.
+**2026.** I graduated with a Master’s degree, published 2 papers, presented at 2 international conferences, and built AI platforms serving 10,000+ internal users.
+
 
 ### 🚀 Today
 
-I'm a **Software Engineer** with **4+ years of experience** building **AI-powered applications**, **distributed systems**, **cloud-native platforms**, and **intelligent developer tools** using **Python, Java, FastAPI, Spring Boot, React, AWS, Kubernetes, Docker, Kafka, OpenTelemetry, and Terraform**.
+Today. I’m a **Software Engineer** with 4+ years of experience building AI-powered applications, distributed systems, cloud-native platforms, and developer tools using Python, Java, FastAPI, Spring Boot, React, AWS, Kubernetes, Docker, Kafka, OpenTelemetry, and Terraform. I love solving problems in system reliability, scalability, latency, and developer productivity in AI infrastructure, while continuously learning and mentoring juniors.
 
-I'm passionate about solving problems in **system reliability**, **scalability**, **latency**, **developer productivity**, and **AI infrastructure**, while continuously learning and mentoring others.
+I’m currently seeking a Software Engineering opportunity where I can work with ambitious people in fast-paced environments and continue to push my boundaries. The best opportunities begin with uncertainty.
 
-I'm currently seeking a **Software Engineering** opportunity where I can solve challenging problems, collaborate with exceptional teams, and continue growing in an environment that embraces ambitious goals and uncertainty.
+
 
 > **My journey started with uncertainty—and I've realized that's exactly where I do my best work.**
+
 
 ### 🌱 Always learning. Always building. Always curious about what's next.
 
