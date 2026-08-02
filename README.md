@@ -13,7 +13,7 @@
 
 **2020.** I graduated during the pandemic, when uncertainty became the new normal. Starting my software engineering career in that environment taught me resilience, adaptability, and that growth begins where certainty ends. With work, I volunteered in 10+ awareness campaigns and built data-driven dashboards using SQL and Python that turn forecasts and insights into action.
 
-**2022.** I took my first big leap by joining DoorDash’s first engineering office. I built distributed systems processing 20,000+ services, developed cloud-native microservices and event-driven platforms on EKS, contributed to 99.9% system reliability, and mentored 10+ interns and junior engineers because I believe in learning in collaboration.
+**2023.** I took my first big leap by joining DoorDash’s first engineering office. I built distributed systems processing 20,000+ services, developed cloud-native microservices and event-driven platforms on EKS, contributed to 99.9% system reliability, and mentored 10+ interns and junior engineers because I believe in learning in collaboration.
 
 **2024.** I wanted to become the next version of myself. So I packed my bags again—this time for California to pursue my Master’s. Inspired by the Bay Area’s culture of innovation, I built multi-agent AI systems, RAG pipelines serving 5,000+ developer queries, and observability platforms that reduced incident investigation time from 30 minutes to 20 seconds, turning curiosity into engineering solutions.
 
