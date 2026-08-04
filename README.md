@@ -31,7 +31,7 @@ I’m currently seeking a Software Engineering opportunity where I can work with
 > **My journey started with uncertainty—and I've realized that's exactly where I do my best work.**
 
 
-### 🌱 Always learning. Always building. Always curious about what's next.
+### 🌱 Always learning, Building And Curious about what's next!
 
 <br>
 
